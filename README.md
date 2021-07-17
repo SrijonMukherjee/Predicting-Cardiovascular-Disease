@@ -11,6 +11,6 @@ A coursework project to predict cardiovascular disease from behavioral risk fact
 https://srijonmukherjee.github.io/Predicting-Cardiovascular-Disease/
 
 ## Instructions to replicate:
-1. Download data from or clone repository.
+1. Download data from [here](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset) or clone this repository.
 2. Make sure downloaded data or 'cardio.csv' from the cloned repository is in the same directory as Predicting Cardiovascular Disease.Rmd
 3. Open Predicting Cardiovascular Disease.Rmd to see code OR select 'Knit' to see entire analysis in markdown format.
